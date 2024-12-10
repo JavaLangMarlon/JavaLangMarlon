@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my profile! 😊 It seems that people enjoy seeing emojis here so please bear with me. 🤭😺
+Welcome to my profile! 😊 It seems that people enjoy seeing emojis here so please excuse me. 🤭😺
 Some facts about me: 🤠
 - Name: Marlon 😁
 - E-Mail: marlonkapala@gmail.com 😲
