@@ -21,7 +21,7 @@ Some facts about me: 🤠
   - Graduating in October 2025 🎓
 
 ## My interests and skills 🚲
-- everything in the machine learning field 🤖, especially:
+- Everything in the machine learning field 🤖, especially:
   - Graph Learning 🕸
   - Reinforcement Learning 🤷‍♂️
   - and Diffusion Models 😶‍🌫️
@@ -29,13 +29,13 @@ Some facts about me: 🤠
   - Everything Python, including Numpy, Matplotlib etc. 🐍
   - Kotlin 🐖
   - Setting up Linux servers 🫦
-- other notable things from my tech stack 📚:
+- Other notable things from my tech stack 📚:
   - Java ☕️
   - Spring 🍀
   - Jenkins 🤵‍♀️
   - Git 🫀
   - SQL 🤾‍♀️
-- stuff that I have used in the past but I would not necessarily call myself an expert in 🦥:
+- Stuff that I have used in the past but I would not necessarily call myself an expert in 🦥:
   - Docker, Mockito, HTML 🐳
   - R, Nginx, Apache, PHP, CSS, JS, React, Angular, C(++), Rust, Go, VHDL 🌚
 
